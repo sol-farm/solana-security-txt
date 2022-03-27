@@ -1,10 +1,9 @@
 [package]
-name = "solana-security-txt"
-version = "0.1.2"
+name = "tulip-solana-security-txt"
+version = "0.1.0"
 edition = "2021"
-description = "security-txt is a macro that helps security researchers contact you about vulnerabilities in your smart contract"
+description = "fork of solana-security-txt"
 readme = "../README.md"
-repository = "https://github.com/neodyme-labs/solana-security-txt"
 license = "MIT OR Apache-2.0"
 
 
